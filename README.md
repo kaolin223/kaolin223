@@ -2,6 +2,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="400" height="400"/>
 </div>
+<div id="badges">
+  <a href="@kaolin12345">
+    https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white
+  </a>
+</div>
 <!--
 **kaolin223/kaolin223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
