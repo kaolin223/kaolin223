@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="400" height="400"/>
+  <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="400" height="400" border-radius="15px"/>
 </div>
 <!--
 **kaolin223/kaolin223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
