@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/WIQ0N0OUvei1OW1h9Z/giphy.gif" width="400" height="400"/>
 </div>
 <div id="badges">
-  <a href="@kaolin12345">
+  <a href="https://t.me/kaolin12345">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
