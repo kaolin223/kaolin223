@@ -4,7 +4,7 @@
 </div>
 <div id="badges">
   <a href="@kaolin12345">
-    https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 <!--
